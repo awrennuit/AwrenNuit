@@ -6,7 +6,8 @@ Aside from software development I am an herbalist, musician, and have a deep pas
 
 I'm always open to have a conversation about a new role, being a developer, or anything JavaScript. Feel free to email me at awren.nuit@gmail.com.
 
-⚧️ Pronouns: they/them
+⚧️ Pronouns: they/them<br />
+📍 Location: Minneapolis, MN
 
 Website: [awrennuit.com](http://awrennuit.com)<br />
 LinkedIn: [AwrenNuit](https://www.linkedin.com/in/awren-nuit/)
