@@ -4,7 +4,7 @@ I'm Awren Nuit (AHren nwee) and I absolutely love learning, solving problems, an
 
 Aside from software development I am an herbalist, musician, and have a deep passion for DEI (diversity, equity, inclusion).  Ask me about my favorite herbs or my special cough syrup!
 
-I'm always open to have a conversation about a new role, being a developer, or anything JavaScript. Feel free to email me at awren.nuit@gmail.com.
+I'm always open to have a conversation about being a developer, landing that first role, or anything JavaScript. Feel free to email me at awren.nuit@gmail.com.
 
 ⚧️ Pronouns: she/her<br />
 📍 Location: Minneapolis, MN
