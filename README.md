@@ -10,4 +10,4 @@ I'm always open to have a conversation about being a developer, landing that fir
 📍 Location: Minneapolis, MN
 
 Website: [awrennuit.com](http://awrennuit.com)<br />
-LinkedIn: [AwrenNuit](https://www.linkedin.com/in/awren-nuit/)
+LinkedIn: [awren nuit](https://www.linkedin.com/in/awren-nuit/)
